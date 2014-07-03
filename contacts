@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<meta name="author=" content="inge4pres">
+<meta name="description=" content="inge4pres: system engineer, cloud specialist, part-time artist">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/cover.css" rel="stylesheet">
+<link href="css/bounce.css" rel="stylesheet">
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<title>{ inge4pres : "francesco gualazzi" }</title>
+</head>
+<body>
+
+ <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h2 class="masthead-brand"><span class="col-red">{</span> inge4pres :<span class="col-pink"> "francesco gualazzi"</span><span class="col-red"> }</span></h2>
+              <!-- p>system engineer</p>
+	      <p>wannabe developer</p>
+	      <p>musician and writer</p -->
+              <ul class="nav masthead-nav">
+                <li><a href="http://inge.4pr.es">home</a></li>
+                <li><a href="about">about</a></li>
+                <li class="active"><a href="contacts">contacts</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <!-- h3 class="cover-heading">profiles</h3 -->
+	    <p class="lead trans-sway">
+		<img class="img-home" src="img/skype-512.png" />
+                <a class="col-cele" href="skype:francesco.gualazzi?call">francesco.gualazzi</a>
+            </p>
+            <p class="lead trans-sway">
+		  <img class="img-home" src="img/gmail-login-512.png" />
+                  <a class="col-red" href="mailto:fgualazzi@gmail.com">fgualazzi _at_ gmail _dot_ com</a>  
+            </p>
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner"> 
+	      <p>courtesy of <a href="https://www.digitalocean.com/?refcode=c77f11249790">myself</a></p>
+              <!-- p>Cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p -->
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+<!-- Load at the end -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/docs.min.js"></script>
+<body>
+</html>
+
